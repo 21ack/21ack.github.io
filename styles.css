@@ -1,0 +1,55 @@
+.dizzy{
+    text-shadow: 3px 3px 0px;
+    color: white;
+  }
+
+.eyestext{
+  color: white;
+}
+
+.title{
+  padding-top: 10px;
+}
+
+body{
+  background-color:black;
+  color:white;
+  text-align: center;
+}
+
+.hell {
+  width: 30%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.header {
+  background-color: #333333;
+  padding: 20px;
+  position: sticky;
+  top: 0;
+  width: 100%;
+  color: white;
+  text-align: right;
+}
+
+.headertext {
+  padding: 10px;
+  background-color: #000000;
+  color: white;
+}
+
+.screaming {
+  transform: rotate(90deg);
+  padding-bottom:112px;
+  text-center;
+}
+
+.freespace{
+  width:80%;
+  padding-bottom:5px;
+}
+
+#secret{
+  padding:30px;
+}
